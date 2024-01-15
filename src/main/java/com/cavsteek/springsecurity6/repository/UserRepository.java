@@ -1,6 +1,6 @@
-package com.cavsteek.springsecurity3.repository;
+package com.cavsteek.springsecurity6.repository;
 
-import com.cavsteek.springsecurity3.user.User;
+import com.cavsteek.springsecurity6.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

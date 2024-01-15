@@ -1,13 +1,13 @@
-package com.cavsteek.springsecurity3;
+package com.cavsteek.springsecurity6;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurity3Application {
+public class SpringSecurity6Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurity3Application.class, args);
+		SpringApplication.run(SpringSecurity6Application.class, args);
 	}
 
 }

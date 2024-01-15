@@ -1,4 +1,4 @@
-package com.cavsteek.springsecurity3.user;
+package com.cavsteek.springsecurity6.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
